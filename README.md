@@ -14,4 +14,4 @@ Live Preview: https://codingtc.github.io/odin-recipes/
 odin project css exercises - https://github.com/CodingTC/css-exercises  
 The solutions I've made for this portion is already included in the current 
 repo, this just provodes excess organizational structure and link to the
-original repo I go the practice from.
+original repo I got the practice from.
