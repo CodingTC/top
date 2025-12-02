@@ -16,6 +16,7 @@ Live Preview: https://codingtc.github.io/odin-recipes/
 
 ## Misc (exercises, extra practice, etc)
 odin project css exercises - https://github.com/CodingTC/css-exercises  
+odin project js exercises - https://github.com/CodingTC/javascript-exercises  
 The solutions I've made for this portion is already included in the current 
-repo, this just provodes excess organizational structure and link to the
+repo, this just provides excess organizational structure and link to the
 original repo I got the practice from.
