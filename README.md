@@ -1,6 +1,10 @@
 My repo for going through the odin project  
 
 ## Index For Completed Projects (reverse chronological order)  
+Rock Paper Scissors project -  
+Github Repo: https://github.com/CodingTC/rock-paper-scissors  
+Landing Page: https://codingtc.github.io/rock-paper-scissors/  
+
 Landing Page project -  
 Github Repo: https://github.com/CodingTC/Landing-Page  
 Live Preview: https://codingtc.github.io/Landing-Page/  
