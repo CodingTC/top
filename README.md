@@ -1,6 +1,10 @@
 My repo for going through the odin project  
 
 ## Index For Completed Projects (reverse chronological order)  
+Etch-A-Sketch project -  
+Github Repo: https://github.com/CodingTC/etch-a-sketch  
+Live Preview: https://codingtc.github.io/etch-a-sketch/
+
 Rock Paper Scissors project -  
 Github Repo: https://github.com/CodingTC/rock-paper-scissors  
 Landing Page: https://codingtc.github.io/rock-paper-scissors/  
