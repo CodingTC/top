@@ -1,6 +1,10 @@
 My repo for going through the odin project  
 
 ## Index For Completed Projects (reverse chronological order)  
+Calculator project -  
+Github Repo: https://github.com/CodingTC/calculator  
+Live Preview: https://codingtc.github.io/calculator/  
+
 Etch-A-Sketch project -  
 Github Repo: https://github.com/CodingTC/etch-a-sketch  
 Live Preview: https://codingtc.github.io/etch-a-sketch/
