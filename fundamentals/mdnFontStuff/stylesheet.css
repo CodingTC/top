@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Fin Serif Display';
+    src: url('FinSerifDisplay-Regular.woff2') format('woff2'),
+        url('FinSerifDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('SourceCodePro-Regular.woff2') format('woff2'),
+        url('SourceCodePro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

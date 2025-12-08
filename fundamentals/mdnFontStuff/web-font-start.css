@@ -1,0 +1,70 @@
+
+.montserrat-Monter {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.roboto-Roboter {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+@font-face {
+    font-family: 'Fin Serif Display';
+    src: url('FinSerifDisplay-Regular.woff2') format('woff2'),
+        url('FinSerifDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('SourceCodePro-Regular.woff2') format('woff2'),
+        url('SourceCodePro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* General setup */
+
+html {
+  font-size: 10px;
+  margin: 0;
+  font-family: "Source Code Pro", sans-serif, serif;
+  letter-spacing: 0.1rem;
+}
+
+body {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Typography */
+
+h1 {
+  font-size: 3.2rem;
+  font-family: "Fin Serif Display", sans-serif, serif;
+}
+
+h2 {
+  font-size: 2.4rem;
+  font-family: "Fin Serif Display", sans-serif, serif;
+}
+
+p {
+
+  font-size: 1.4rem;
+  line-height: 1.6;
+  word-spacing: -0.1rem;
+}
