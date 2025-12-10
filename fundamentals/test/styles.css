@@ -1,0 +1,26 @@
+.colors {
+  --base-hue: 217;      /* 0055ff in HSL is roughly hsl(217, 100%, 50%) */
+  --saturation: 100%;
+  --lightness: 50%;
+  --rotation: 120;      /* 120° creates triadic (complementary) colors */
+
+  color: #222;
+  text-align: center;
+}
+
+.color {
+  padding: 0.25rem;
+  background-color: hsl(var(--hue), var(--saturation), var(--lightness));
+}
+
+.color1 {
+  --hue: calc(var(--base-hue));           /* 217° - blue */
+}
+
+.color2 {
+  --hue: calc(var(--base-hue) + var(--rotation));      /* 337° - red/pink */
+}
+
+.color3 {
+  --hue: calc(var(--base-hue) + var(--rotation) * 2);  /* 97° - yellow/green */
+}
