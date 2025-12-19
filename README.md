@@ -1,6 +1,10 @@
 My repo for going through the odin project  
 
 ## Index For Completed Projects (reverse chronological order)  
+Admin Dashboard project -  
+Github Repo: https://github.com/CodingTC/admin-dashboard  
+Live Preview: https://codingtc.github.io/admin-dashboard/  
+
 Sign-Up Form project -  
 Github Repo: https://github.com/CodingTC/sign-up-form  
 Live Preview: https://codingtc.github.io/sign-up-form/  
