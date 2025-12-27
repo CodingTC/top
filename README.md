@@ -1,6 +1,10 @@
 My repo for going through the odin project  
 
 ## Index For Completed Projects (reverse chronological order)  
+Restaurant Page project -  
+Github Repo: https://github.com/CodingTC/restaurant-page  
+Live Preview: https://codingtc.github.io/restaurant-page/  
+
 Tic Tac Toe project -  
 Github Repo: https://github.com/CodingTC/tic-tac-toe  
 Live Preview: https://codingtc.github.io/tic-tac-toe/  
